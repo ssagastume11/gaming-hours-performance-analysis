@@ -9,7 +9,7 @@ This project analyzes how gaming habits relate to academic and workplace perform
 
 ## 📦 Dataset
 
-**Source**: [Gaming Hours vs Academic & Work Performance Dataset]([https://www.kaggle.com/datasets/ahmeduzaki/global-earthquake-tsunami-risk-assessment](https://www.kaggle.com/datasets/prince7489/gaming-hours-vs-academic-and-work-performance))  
+**Source**: [Gaming Hours vs Academic & Work Performance Dataset]([https://www.kaggle.com/datasets/ahmeduzaki/global-earthquake-tsunami-risk-assessment](https://www.kaggle.com/datasets/prince7489/gaming-hours-vs-academic-and-work-performance)  
 **Platform**: Kaggle (public behavioral dataset)
 
 **Location**: Stored in the `data/` folder  
