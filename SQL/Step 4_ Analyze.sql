@@ -1,1 +1,11 @@
+-- Objective:
+-- The goal of this step is to analyze gaming behavior patterns and their relationship
+-- to academic and workplace performance outcomes.
+-- This analysis focuses on understanding how gaming duration, timing, and type
+-- relate to performance categories, productivity, focus, stress, and sleep.
 
+-- Key Actions:
+-- * Compare average gaming hours across performance categories.
+-- * Identify trends by occupation, game type, and primary gaming time.
+-- * Examine how sleep, stress, and focus differ between performance groups.
+-- * Quantify user distribution to support data-driven insights.
